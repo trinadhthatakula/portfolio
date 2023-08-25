@@ -5,9 +5,9 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/x6eDeOOtlltBW6Wv70KJh/_buildManifest.js",
-    "static/x6eDeOOtlltBW6Wv70KJh/_ssgManifest.js",
-    "static/x6eDeOOtlltBW6Wv70KJh/_middlewareManifest.js"
+    "static/2mgpM6fe0m8RGiqGSirrZ/_buildManifest.js",
+    "static/2mgpM6fe0m8RGiqGSirrZ/_ssgManifest.js",
+    "static/2mgpM6fe0m8RGiqGSirrZ/_middlewareManifest.js"
   ],
   "pages": {
     "/": [
@@ -18,7 +18,7 @@
       "static/chunks/481-ddffdff8b3f31a80.js",
       "static/chunks/324-cd0faa5a6c1779dd.js",
       "static/chunks/664-06a970764c6b8a50.js",
-      "static/chunks/660-6842d74fbaa9d154.js",
+      "static/chunks/660-6ac1f24d2129d5dd.js",
       "static/chunks/pages/index-6f7aa7ca8e29677a.js"
     ],
     "/_app": [
@@ -41,7 +41,7 @@
       "static/chunks/94726e6d-e5fbd4368edcb4f0.js",
       "static/chunks/481-ddffdff8b3f31a80.js",
       "static/chunks/324-cd0faa5a6c1779dd.js",
-      "static/chunks/660-6842d74fbaa9d154.js",
+      "static/chunks/660-6ac1f24d2129d5dd.js",
       "static/chunks/pages/blog-2a3713bfdbb51518.js"
     ],
     "/blog/[slug]": [
@@ -54,7 +54,7 @@
       "static/chunks/664-06a970764c6b8a50.js",
       "static/css/7ac8cb26da507440.css",
       "static/chunks/225-2eeb203a47c93cc7.js",
-      "static/chunks/660-6842d74fbaa9d154.js",
+      "static/chunks/660-6ac1f24d2129d5dd.js",
       "static/chunks/pages/blog/[slug]-9ea7911c143af4cf.js"
     ],
     "/edit": [
@@ -62,7 +62,7 @@
       "static/chunks/framework-0ba0ddd33199226d.js",
       "static/chunks/main-e59df5067b749ff4.js",
       "static/chunks/481-ddffdff8b3f31a80.js",
-      "static/chunks/660-6842d74fbaa9d154.js",
+      "static/chunks/660-6ac1f24d2129d5dd.js",
       "static/chunks/pages/edit-ad08f6acc7518b33.js"
     ],
     "/resume": [
@@ -70,7 +70,7 @@
       "static/chunks/framework-0ba0ddd33199226d.js",
       "static/chunks/main-e59df5067b749ff4.js",
       "static/chunks/481-ddffdff8b3f31a80.js",
-      "static/chunks/660-6842d74fbaa9d154.js",
+      "static/chunks/660-6ac1f24d2129d5dd.js",
       "static/chunks/pages/resume-b5f006dd19d38eaf.js"
     ]
   },
