@@ -35,28 +35,28 @@
             "id": "1",
             "title": "GPS Navigations Traffic Alerts",
             "description": "GPS based Utility App with 10M+ downloads",
-            "imageSrc": "raamo_gps.jpg",
+            "imageSrc": "raamo_gps.webp",
             "url": "https://play.google.com/store/apps/details?id=com.rms.gps.maps.gpsroutefind.tracklocation.nearplaces.directions.compass.navigation.maps.tracker"
         },
         {
             "id": "2",
             "title": "Mobile Number Locator",
             "description": "A Utility app for Mobile users, 10M+ downloads",
-            "imageSrc": "https://play-lh.googleusercontent.com/USCL7w_tbbiVmVHZob5Ybh1avrcvJM5lpis3vdOW_Tt8XGz6jCp_qfx5gG54qjNPyg=w2560-h1440-rw",
+            "imageSrc": "mnl.webp",
             "url": "https://play.google.com/store/apps/details?id=com.ram.itsl"
         },
         {
             "id": "3",
             "title": "All Village Maps",
             "description": "A sort of repository for Villages, 5M+ downloads",
-            "imageSrc": "https://play-lh.googleusercontent.com/BV2LKto2rsS7ulyoCXlmQYffr-G5HbnfARUTBnFd0hy4qQYEXDuJ8yjEgutGGT400wU=w2560-h1440-rw",
+            "imageSrc": "vm_shami.webp",
             "url": "https://play.google.com/store/apps/details?id=com.gpsmaps.villagemaps.directions.whereami.navigation.gpsarea.location.tracker"
         },
         {
             "id": "4",
             "title": "Photo Editor & Image Filters",
             "description": "A Photo Editing app, 100k+ downloads",
-            "imageSrc": "https://play-lh.googleusercontent.com/eJx8jQ2_TWtLO-oTEnW1aHDV-bkjU4buN6TKhVC_nTqwQkIzU7ghmYoiE6guuDzFLBI=w416-h235-rw",
+            "imageSrc": "pe.webp",
             "url": "https://play.google.com/store/apps/details?id=com.rstech.photo.editor.filters.fun.editpicture.effects.photoblend.blurphoto&hl=en_US"
         },
         {
