@@ -76,7 +76,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
                   {showResume && (
                     <Button
-                    onClick={() => window.open("/trinadh_thatakula_resume.pdf")/*router.push("/resume")*/}
+                    onClick={() => window.open("/trinadh_thatakula_resume_tl.pdf")/*router.push("/resume")*/}
                     >
                       Resume
                     </Button>
@@ -98,7 +98,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => window.open("/public/trinadh_thatakula_resume.pdf")/*router.push("/resume")*/}
+                      onClick={() => window.open("/public/trinadh_thatakula_resume_tl.pdf")/*router.push("/resume")*/}
                       //classes="first:ml-1"
                     >
                       Resume
@@ -136,7 +136,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-              onClick={() => window.open("/trinadh_thatakula_resume.pdf")/*router.push("/resume")*/}
+              onClick={() => window.open("/trinadh_thatakula_resume_tl.pdf")/*router.push("/resume")*/}
 
               >
                 Resume
